@@ -44,7 +44,9 @@ if opcao != 6:
       elif opcao2 == 4:
          print("A opcao escolhida foi {entrada2} - Excluir")
    else:
-      print("Opcao invalida")
+      print("Opcao invalida");
+
          
+   print("eai linguiça, vacilona")
       
 
